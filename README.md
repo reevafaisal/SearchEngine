@@ -1,1 +1,18 @@
-# SearchEngine
+# Search Engine
+
+- Built a scalable search engine similar to Google or Bing.
+- Includes information retrieval concepts like text analysis (tf-idf) and link analysis (PageRank), and parallel data processing with MapReduce.
+- Uses a Service-Oriented Architecture to scale dynamic pages and web search.
+- Creates a segmented inverted index of web pages using a pipeline of MapReduce programs.
+- Built an Index server, a REST API app that returns search results in JSON format.
+- Built a Search server, a user interface that returns search results just like Google or Bing.
+
+Technologies: Python, SQL, Flask, HTML and CSS, JSON
+
+  <p>
+    <iframe src="https://hazel.org/build/dev/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>  
+  </p>  
+
+- The Search server is a user interface implemented with server-side dynamic pages. A user enters a query and the Search server returns a page of search results, just like Google or Bing.
+- The Search server backend makes REST API requests to each Index server and combines the results from each inverted index segment. It should make these requests in parallel threads. The Search server then displays the top 10 results to the client.
+- To test it type in various queries and adjust the weights by using the slider to see the variations in results.
