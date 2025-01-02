@@ -21,3 +21,7 @@ plugins:
 #   - assets/js/custom.js
 
 remote_theme: reevafaisal/jekyll-theme-minimal-new
+
+navigation:
+  - name: Usage Instructions
+    link: ./index.html#usage-instructions
