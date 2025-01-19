@@ -7,9 +7,9 @@
 - Built an Index server, a REST API app that returns search results in JSON format.
 - Built a Search server, a user interface that returns search results just like Google or Bing.
 
----
-
 ![GUI_2.png](GUI_2.jpeg)
+
+---
 
 ## Usage Instructions 
 
