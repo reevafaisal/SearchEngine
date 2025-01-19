@@ -9,7 +9,7 @@
 
 ---
 
-![GUI_2.png](GUI_2.png)
+![GUI_2.png](GUI_2.jpeg)
 
 ## Usage Instructions 
 
