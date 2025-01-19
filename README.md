@@ -13,7 +13,7 @@
 
 ## Usage Instructions 
 
-### [Demo Link](http://7ewfwy-ip-50-217-59-154.tunnelmole.net/)
+### [Demo](http://7ewfwy-ip-50-217-59-154.tunnelmole.net/)
 
 - Use the link above to access the search engine.
 - The Search server is a user interface implemented with server-side dynamic pages. A user enters a query and the Search server returns a page of search results.
